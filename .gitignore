@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/model_seed*.txt
+outputs/holdout_predictions.csv
+scorer_results/
+.venv/
